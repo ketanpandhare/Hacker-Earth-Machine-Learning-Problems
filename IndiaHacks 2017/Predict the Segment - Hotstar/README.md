@@ -9,19 +9,14 @@ We are seeking a machine learning based solution using which we can learn patter
 
 Dataset containing train, test and sample submission files are given. The training dataset consists of data corresponding to 200,000 customers and the test dataset consists of 100,000 customers. Both training and test data is in the form of json dict, where key is masked user ID and value is aggregation of all records corresponding to the user as described below. 
 
-
-
-## Research
-
-- Batch file
-- 6809
-- 8051
-- PDP-1
-- PDP-4/7/9/15
-- PDP-5/8
-- PDP-10
-- PIC
-- Shell script
-- STM8
-- Thumb
-- Xtensa
+| Command | Description |
+| --- | --- |
+| `ID` | unique identifier variable |
+| `titles` | titles of the shows watched by the user and watch_time on different titles in the format “title:watch_time” separated by comma, e.g. “JOLLY LLB:23, Ishqbaaz:40”. watch_time is in seconds |
+| `genres` | same format as titles |
+| `cities` | same format as titles |
+| `tod` | total watch time of the user spreaded across different time of days (24 hours format) in the format “time_of_day:watch_time” separated by comma, e.g. “1:454, “17”:5444” |
+| `dow` | total watch time of the user spreaded across different days of week (7 days format) in the format “day_of_week:watch_time” separated by comma, e.g. “1:454, “6”:5444” |
+| `segment` | target variable. consider them as interest segments. For modeling, encode pos = 1, neg = 0 |
+## Dataset
+* [Download Dataset](https://he-s3.s3.amazonaws.com/media/hackathon/machine-learning-challenge-2/funding-successful-projects/3149def2-5-datafiles.zip)
