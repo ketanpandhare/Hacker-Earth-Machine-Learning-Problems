@@ -1,5 +1,5 @@
 ## IndiaHacks 2017
-This repository contains Python script. The code is build using spyder software.
+This repository contains Python script and sample submission file. The code is build using spyder software. The name of solution code file is hotstar.py. The  	sample_submission.csv file contain output result obtained after running hotstar.py script. To download dataset for this problem click on Download dataset option at the end of this file.
 
 
 
