@@ -8,10 +8,8 @@ We are seeking a machine learning based solution using which we can learn patter
 ## Data Information
 
 Dataset containing train, test and sample submission files are given. The training dataset consists of data corresponding to 200,000 customers and the test dataset consists of 100,000 customers. Both training and test data is in the form of json dict, where key is masked user ID and value is aggregation of all records corresponding to the user as described below. 
-| Variable | Description |
-| --- | --- |
-| `ID` | unique identifier variable |
-| `titles` | titles of the shows watched by the user and watch_time on different titles in the format “title:watch_time” separated by comma, e.g. “JOLLY LLB:23, Ishqbaaz:40”. watch_time is in seconds |
+
+
 
 ## Research
 
