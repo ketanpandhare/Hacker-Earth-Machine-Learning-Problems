@@ -1,3 +1,8 @@
+## IndiaHacks 2017
+This repository contains Python script. The code is build using spyder software.
+
+
+
 ## Problem Statement.
 
 Determining the demographics of customers is one of the most key tasks in the advertising domain. Advertisers usually want to target customers based on demographic attributes. However, it is difficult to get demographic data from all the customers since that can add friction to the user experience.
