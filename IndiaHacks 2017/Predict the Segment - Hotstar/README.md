@@ -1,5 +1,5 @@
 ## IndiaHacks 2017
-This repository contains Python script and sample submission file. The code is build using spyder software. The name of solution code file is hotstar.py. The  	sample_submission.csv file contain output result obtained after running hotstar.py script. To download dataset for this problem click on Download dataset option at the end of this file.
+This repository contains Python script and sample submission file. The code is build using spyder software. The name of solution code file is hotstar.py. The  	sample_submission.csv file contain output result obtained after running hotstar.py script. To download dataset for this problem click on Download dataset option at the end of this file. This problem statement and data set is taken from HackerEarth.com.
 
 
 
@@ -14,7 +14,7 @@ We are seeking a machine learning based solution using which we can learn patter
 
 Dataset containing train, test and sample submission files are given. The training dataset consists of data corresponding to 200,000 customers and the test dataset consists of 100,000 customers. Both training and test data is in the form of json dict, where key is masked user ID and value is aggregation of all records corresponding to the user as described below. 
 
-| Command | Description |
+| Variable | Description |
 | --- | --- |
 | `ID` | unique identifier variable |
 | `titles` | titles of the shows watched by the user and watch_time on different titles in the format “title:watch_time” separated by comma, e.g. “JOLLY LLB:23, Ishqbaaz:40”. watch_time is in seconds |
