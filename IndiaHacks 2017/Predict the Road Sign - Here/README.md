@@ -1,5 +1,5 @@
 ## IndiaHacks 2017
-This repository contains Python script and sample submission file. The code is build using spyder software. The name of solution code file is road_sign.py. The  	sample_submission.csv file contain output result obtained after running hotstar.py script. To download dataset for this problem click on Download dataset option at the end of this file. This problem statement and data set is taken from HackerEarth.com.
+This repository contains Python script and sample submission file. The code is build using spyder software. The name of solution code file is road_sign.py. The  	sample_submission.csv file contain output result obtained after running road_sign.py script. To download dataset for this problem click on Download dataset option at the end of this file. This problem statement and data set is taken from HackerEarth.com.
 
 ## Problem Statement
 Building digital maps is challenging, and maintaining it up to date in an ever-changing world is even more challenging. Various machine learning techniques helps us to detect road signs and changes in real world, and process it to update maps.
